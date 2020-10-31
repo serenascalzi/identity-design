@@ -1,6 +1,6 @@
 # Identity Design
 
-## Identity Design Elements
+## Design Elements
 - Who: This design is for current and future members of the Girls Who Code College Loop at UNLV. It incorporates the logo, colors, and typography from the Girls Who Code Design Style Guide, along with official photography, creating an identity consistent with the larger organization.
 - What: Users of this design are able to become a member, contact the club, and learn more about the organization from the slideshow. They are also able to view news and events, follow the club on social media, and email questions or errors from the page links.
 - Where: This landing page provides an overview of Girls Who Code at UNLV. The page serves as an information hub, linking to additional sites on which the club has a presence, including the UNLV Involvement Center, Facebook, Instagram, and LinkedIn.
